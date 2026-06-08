@@ -8,4 +8,4 @@ __pycache__/
 .ragas/
 .trulens/
 *.log
-data/vie.traineddata
+**/data/vie.traineddata
