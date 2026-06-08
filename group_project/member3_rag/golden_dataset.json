@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Luật Phòng chống ma túy 2021 quy định những nhóm nội dung chính nào?",
+    "expected_answer": "Luật quy định về phòng, chống ma túy; quản lý người sử dụng trái phép chất ma túy; cai nghiện ma túy; trách nhiệm của cá nhân, gia đình, cơ quan, tổ chức; quản lý nhà nước và hợp tác quốc tế.",
+    "expected_context": "luat-phong-chong-ma-tuy-2021.md"
+  },
+  {
+    "question": "Luật Phòng chống ma túy 2021 nghiêm cấm những hành vi nào liên quan đến chất ma túy?",
+    "expected_answer": "Luật nghiêm cấm các hành vi như trồng cây chứa chất ma túy, sản xuất, tàng trữ, vận chuyển, mua bán, phân phối và sử dụng trái phép chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần.",
+    "expected_context": "luat-phong-chong-ma-tuy-2021.md"
+  },
+  {
+    "question": "Luật Phòng chống ma túy 2021 nhắc đến những hình thức cai nghiện nào?",
+    "expected_answer": "Luật nhắc đến quản lý người sử dụng trái phép chất ma túy, lập hồ sơ cai nghiện, cai nghiện tự nguyện, cai nghiện bắt buộc và quản lý sau cai nghiện.",
+    "expected_context": "luat-phong-chong-ma-tuy-2021.md"
+  },
+  {
+    "question": "Nghị định 105/2021/NĐ-CP hướng dẫn những nội dung nào của Luật Phòng chống ma túy?",
+    "expected_answer": "Nghị định hướng dẫn kiểm soát hoạt động hợp pháp liên quan đến ma túy, quản lý người sử dụng trái phép chất ma túy, cai nghiện ma túy và quản lý sau cai nghiện.",
+    "expected_context": "nghi-dinh-105-2021.md"
+  },
+  {
+    "question": "Nghị định 105/2021/NĐ-CP quy định trách nhiệm của những chủ thể nào?",
+    "expected_answer": "Nghị định nêu trách nhiệm của Ủy ban nhân dân cấp xã, cơ quan công an, cơ sở y tế, cơ sở cai nghiện và gia đình trong quản lý, xác định tình trạng nghiện và cai nghiện.",
+    "expected_context": "nghi-dinh-105-2021.md"
+  },
+  {
+    "question": "Nghị định 57/2022/NĐ-CP dùng để làm gì?",
+    "expected_answer": "Nghị định 57/2022/NĐ-CP quy định danh mục chất ma túy và tiền chất, làm căn cứ pháp lý để xác định các chất bị kiểm soát trong đời sống xã hội, y tế, nghiên cứu, giám định và điều tra tội phạm.",
+    "expected_context": "nghi-dinh-57-2022-danh-muc-chat-ma-tuy.md"
+  },
+  {
+    "question": "Nghị định 57/2022/NĐ-CP phân nhóm chất ma túy như thế nào?",
+    "expected_answer": "Văn bản phân nhóm các chất ma túy tuyệt đối cấm sử dụng trong y học và đời sống xã hội, các chất ma túy được dùng theo quy định đặc biệt, và các tiền chất thiết yếu tham gia vào cấu trúc chất ma túy.",
+    "expected_context": "nghi-dinh-57-2022-danh-muc-chat-ma-tuy.md"
+  },
+  {
+    "question": "Người mẫu Nhikolai Đinh liên quan đến vụ ma túy nào?",
+    "expected_answer": "Nhikolai Đinh được nhắc trong chuyên án ma túy tại khu Mả Lạng, quận 1, TP.HCM, và bị khởi tố về hành vi tàng trữ trái phép chất ma túy.",
+    "expected_context": "article_01.md"
+  },
+  {
+    "question": "Trong bài về khu Mả Lạng, cơ quan điều tra khởi tố những tội danh ma túy nào?",
+    "expected_answer": "Bài báo nhắc đến điều tra, khởi tố về tội mua bán trái phép chất ma túy và tàng trữ trái phép chất ma túy.",
+    "expected_context": "article_01.md"
+  },
+  {
+    "question": "Bài báo về Hữu Tín nói gì về việc sử dụng ma túy?",
+    "expected_answer": "Bài báo nêu diễn viên Hữu Tín bị Công an quận 8 tạm giữ hình sự để điều tra tội tàng trữ trái phép và tổ chức sử dụng trái phép chất ma túy.",
+    "expected_context": "article_02.md"
+  },
+  {
+    "question": "Bài báo về nghệ sĩ Việt Anh liên quan thế nào đến vụ Hữu Tín?",
+    "expected_answer": "Bài báo phản ánh việc nghệ sĩ Việt Anh bị chỉ trích vì bình luận sai hoặc không phù hợp sau vụ Hữu Tín bị phát hiện liên quan đến ma túy.",
+    "expected_context": "article_02.md"
+  },
+  {
+    "question": "Thanh Niên nói gì về nghệ sĩ Trung Quốc dính tới ma túy?",
+    "expected_answer": "Thanh Niên tổng hợp việc nhiều nghệ sĩ Trung Quốc bị phong sát hoặc mất sự nghiệp vì các bê bối liên quan đến ma túy.",
+    "expected_context": "article_03.md"
+  },
+  {
+    "question": "Bài báo về G-Dragon và Lee Sun Kyun đề cập vấn đề gì?",
+    "expected_answer": "Bài báo đề cập việc truyền thông Hàn Quốc đưa tin G-Dragon và Lee Sun Kyun bị điều tra liên quan đến ma túy, cùng tác động của cáo buộc ma túy đối với nghệ sĩ.",
+    "expected_context": "article_04.md"
+  },
+  {
+    "question": "Diễn viên phim Tứ thần ký bị nhắc đến trong vụ việc nào?",
+    "expected_answer": "VnExpress đưa tin diễn viên Oh Kwang Rok, từng tham gia phim Tứ thần ký, bị bắt hoặc thừa nhận sử dụng chất gây nghiện.",
+    "expected_context": "article_05.md"
+  },
+  {
+    "question": "Khi không đủ bằng chứng trong context, hệ thống RAG nên trả lời như thế nào?",
+    "expected_answer": "Hệ thống nên nói rằng không thể xác minh thông tin từ nguồn hiện có thay vì suy đoán.",
+    "expected_context": "SYSTEM_PROMPT; task10_generation.py"
+  }
+]
