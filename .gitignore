@@ -1,0 +1,6 @@
+.env
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.deepeval/
+**/data/vie.traineddata
