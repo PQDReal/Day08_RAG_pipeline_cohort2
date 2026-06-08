@@ -1,0 +1,27 @@
+{
+  "query": "xyzabc123nonsense",
+  "top_k": 3,
+  "doc_ids": [
+    "pi-cmq4y11hs036401qx2nl01d7l"
+  ],
+  "raw_answer": "[]",
+  "results": [
+    {
+      "content": "[]",
+      "score": 1.0,
+      "source": "pageindex",
+      "metadata": {
+        "retrieval_type": "pageindex_vectorless",
+        "rank": 1,
+        "query": "xyzabc123nonsense",
+        "doc_ids": [
+          "pi-cmq4y11hs036401qx2nl01d7l"
+        ],
+        "source": "PageIndex Chat API",
+        "section": null,
+        "parse_mode": "fallback_text_blocks",
+        "raw_answer": "[]"
+      }
+    }
+  ]
+}

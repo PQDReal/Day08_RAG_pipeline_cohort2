@@ -1,0 +1,41 @@
+{
+  "task": "Task 4 - Chunking & Indexing",
+  "status": "success",
+  "created_at": "2026-06-08T14:12:18",
+  "source_dir": "data\\standardized",
+  "index_dir": "data\\vector_store",
+  "documents_total": 11,
+  "documents_indexed": 11,
+  "num_chunks": 2038,
+  "embedding_shape": [
+    2038,
+    384
+  ],
+  "chunking": {
+    "strategy": "RecursiveCharacterTextSplitter",
+    "chunk_size": 800,
+    "chunk_overlap": 120,
+    "reason": "RecursiveCharacterTextSplitter is used because the dataset contains mixed legal documents and news articles. It preserves larger text boundaries such as paragraphs and lines when possible, and falls back to smaller separators when needed. The chunk_size of 800 keeps enough legal context such as article numbers, clauses, and penalties. The overlap of 120 reduces the risk of cutting important legal meaning between chunks."
+  },
+  "embedding": {
+    "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "expected_dimension": 384,
+    "actual_dimension": 384,
+    "dimension_from_matrix": 384,
+    "reason": "The selected SentenceTransformer model runs locally, does not require API keys, does not consume paid tokens, and is lightweight enough for weak laptops. It produces 384-dimensional embeddings, suitable for a small RAG demo pipeline.",
+    "trade_off": "This model is not the strongest embedding model for Vietnamese. For production or better Vietnamese retrieval quality, multilingual models such as BAAI/bge-m3 or paraphrase-multilingual-MiniLM-L12-v2 should be considered."
+  },
+  "vector_store": {
+    "type": "local_numpy",
+    "chunks_file": "data\\vector_store\\chunks.json",
+    "embeddings_file": "data\\vector_store\\embeddings.npy",
+    "documents_index_file": "data\\vector_store\\documents_indexed.json",
+    "manifest_file": "data\\vector_store\\index_manifest.json",
+    "reason": "A local NumPy vector store is used to avoid Docker/cloud complexity. It is sufficient for this assignment and can be queried with cosine similarity in Task 5."
+  },
+  "index_validation": {
+    "embeddings_match_chunks": true,
+    "embedding_dimension_valid": true,
+    "all_non_empty_documents_indexed": true
+  }
+}
