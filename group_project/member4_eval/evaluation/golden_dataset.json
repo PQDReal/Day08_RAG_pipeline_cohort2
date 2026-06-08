@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Hình phạt cho tội tàng trữ trái phép chất ma tuý theo Điều 249 Bộ luật Hình sự?",
+    "expected_answer": "Phạt tù từ 1 đến 5 năm đối với trường hợp tàng trữ từ 1g đến dưới 5g heroin hoặc cocaine, hoặc chất ma tuý khác với khối lượng tương đương.",
+    "expected_context": "Bộ luật Hình sự 2015, Điều 249"
+  },
+  {
+    "question": "Luật Phòng chống ma tuý 2021 quy định những hình thức cai nghiện nào?",
+    "expected_answer": "Cai nghiện tự nguyện tại gia đình, cai nghiện tự nguyện tại cộng đồng, cai nghiện tự nguyện tại cơ sở cai nghiện, và cai nghiện bắt buộc tại cơ sở cai nghiện.",
+    "expected_context": "Luật Phòng chống ma tuý 2021, Chương V"
+  },
+  {
+    "question": "Danh mục các chất ma tuý thuộc nhóm I theo quy định pháp luật Việt Nam gồm những chất nào?",
+    "expected_answer": "Nhóm I gồm các chất ma tuý tuyệt đối cấm sử dụng trong y học và đời sống, bao gồm heroin, cocaine, methamphetamine, MDMA (ecstasy), cannabis (cần sa), và các chất tương tự.",
+    "expected_context": "Nghị định 57/2022/NĐ-CP, Phụ lục I"
+  },
+  {
+    "question": "Người sử dụng trái phép chất ma tuý bị xử phạt như thế nào?",
+    "expected_answer": "Người sử dụng trái phép chất ma tuý bị xử phạt hành chính, có thể bị áp dụng biện pháp giáo dục tại xã, phường, thị trấn hoặc đưa vào cơ sở cai nghiện bắt buộc.",
+    "expected_context": "Luật Phòng chống ma tuý 2021, Điều 32"
+  },
+  {
+    "question": "Tội mua bán trái phép chất ma tuý bị phạt bao nhiêu năm tù theo BLHS?",
+    "expected_answer": "Tội mua bán trái phép chất ma tuý theo Điều 251 BLHS 2015 bị phạt tù từ 2 đến 7 năm ở khoản cơ bản; khung tăng nặng có thể lên đến tù chung thân hoặc tử hình khi số lượng lớn.",
+    "expected_context": "Bộ luật Hình sự 2015, Điều 251"
+  },
+  {
+    "question": "Ai có thẩm quyền quyết định đưa người nghiện ma tuý vào cơ sở cai nghiện bắt buộc?",
+    "expected_answer": "Tòa án nhân dân cấp huyện có thẩm quyền quyết định đưa người nghiện ma tuý vào cơ sở cai nghiện bắt buộc theo quy định của Luật Phòng chống ma tuý 2021.",
+    "expected_context": "Luật Phòng chống ma tuý 2021, Điều 36"
+  },
+  {
+    "question": "Thời hạn cai nghiện bắt buộc tại cơ sở là bao lâu?",
+    "expected_answer": "Thời hạn cai nghiện bắt buộc tại cơ sở cai nghiện ma tuý là từ 12 tháng đến 24 tháng.",
+    "expected_context": "Luật Phòng chống ma tuý 2021, Điều 37"
+  },
+  {
+    "question": "Tội vận chuyển trái phép chất ma tuý khác gì với tội mua bán?",
+    "expected_answer": "Tội vận chuyển (Điều 250) chỉ liên quan đến hành vi di chuyển ma tuý không có mục đích mua bán, trong khi tội mua bán (Điều 251) bao gồm hành vi trao đổi, buôn bán ma tuý nhằm mục đích thương mại.",
+    "expected_context": "Bộ luật Hình sự 2015, Điều 250 và 251"
+  },
+  {
+    "question": "Phân biệt ma tuý nhóm II và nhóm III theo pháp luật Việt Nam?",
+    "expected_answer": "Nhóm II gồm các chất có thể sử dụng trong y học nhưng bị kiểm soát chặt chẽ (như morphine, codeine), còn nhóm III gồm các chất có thể sử dụng trong y học, ít nguy hiểm hơn và được kiểm soát ở mức độ thấp hơn.",
+    "expected_context": "Nghị định 57/2022/NĐ-CP, Phụ lục II và III"
+  },
+  {
+    "question": "Hành vi tổ chức sử dụng trái phép chất ma tuý bị xử lý như thế nào?",
+    "expected_answer": "Tội tổ chức sử dụng trái phép chất ma tuý theo Điều 255 BLHS bị phạt tù từ 2 đến 7 năm, có thể lên đến 15 năm trong trường hợp tăng nặng (nhiều người, nhiều lần, nơi công cộng).",
+    "expected_context": "Bộ luật Hình sự 2015, Điều 255"
+  },
+  {
+    "question": "Nghị định nào quy định về danh mục chất ma tuý hiện hành tại Việt Nam?",
+    "expected_answer": "Nghị định 57/2022/NĐ-CP của Chính phủ quy định danh mục các chất ma tuý và tiền chất ma tuý hiện hành tại Việt Nam, có hiệu lực từ năm 2022.",
+    "expected_context": "Nghị định 57/2022/NĐ-CP"
+  },
+  {
+    "question": "Trẻ em dưới 16 tuổi vi phạm liên quan đến ma tuý bị xử lý như thế nào?",
+    "expected_answer": "Người chưa thành niên (dưới 18 tuổi) phạm tội liên quan đến ma tuý được áp dụng các biện pháp xử lý nhẹ hơn, ưu tiên biện pháp giáo dục thay vì hình sự; dưới 14 tuổi không chịu trách nhiệm hình sự.",
+    "expected_context": "Bộ luật Hình sự 2015, Chương XII; Luật Phòng chống ma tuý 2021"
+  },
+  {
+    "question": "Cảnh sát có quyền khám xét nhà không cần lệnh trong trường hợp nào liên quan đến ma tuý?",
+    "expected_answer": "Theo Bộ luật Tố tụng Hình sự, cảnh sát chỉ được khám xét nhà khi có lệnh khám xét của cơ quan có thẩm quyền, trừ trường hợp khẩn cấp khi có căn cứ cho rằng có người đang bị giữ làm con tin hoặc có vũ khí nguy hiểm.",
+    "expected_context": "Bộ luật Tố tụng Hình sự 2015, Điều 192-196"
+  },
+  {
+    "question": "Phụ nữ có thai sử dụng ma tuý có bị xử lý hình sự không?",
+    "expected_answer": "Phụ nữ có thai không bị áp dụng biện pháp cai nghiện bắt buộc. Về hình sự, tình trạng có thai là tình tiết giảm nhẹ trách nhiệm hình sự theo BLHS 2015.",
+    "expected_context": "Luật Phòng chống ma tuý 2021; Bộ luật Hình sự 2015, Điều 51"
+  },
+  {
+    "question": "Chính sách hỗ trợ người sau cai nghiện tái hoà nhập cộng đồng là gì?",
+    "expected_answer": "Nhà nước hỗ trợ người sau cai nghiện thông qua tư vấn tâm lý, đào tạo nghề, giới thiệu việc làm, và hỗ trợ vay vốn. Ủy ban nhân dân cấp xã có trách nhiệm quản lý và hỗ trợ trong 2 năm sau cai nghiện.",
+    "expected_context": "Luật Phòng chống ma tuý 2021, Chương VI"
+  }
+]
