@@ -1,0 +1,11 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.deepeval/
+.ragas/
+.trulens/
+*.log
+data/vie.traineddata
